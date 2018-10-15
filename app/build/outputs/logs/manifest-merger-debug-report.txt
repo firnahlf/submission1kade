@@ -1,0 +1,132 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:design:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/ebd0355b1d797a2d51eb3c304f0a5549/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/19333c7967fbbc2fe5a6530895e97932/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/firna/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/81c4de9e2f7b41a5ee17a3d9fd66c767/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/b67eccbde3a0dabec0582dcae4169989/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/firna/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/a9fe905cd2a7fff67fb33e26dcdb95f2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/3891224cc890ed3ea08b144a46bdb59d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/dc9d750110a4071d88bb754c2155b01d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/593ee3602f077d523e15be2ecc0b4ab9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/275ca76c4b92555f204ae70f2419368b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a70b4d0160bbc7a65940ea95c0bc2c6c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2d190567133dcc47b16976dda06af411/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b25cae059b7ce494fe7d34c0079ada96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c41d27b2d0fb4a03b9e6be5a19321e1d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6f7263008a06bf0bd1b5b0014d261ad6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/firna/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/193d167a44323205654e554b9e2816a4/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/firna/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0d631daee0d896e9c586368522b34c61/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/firna/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8fc849c558d86b0ad93e920ad51733c1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/firna/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/70cac3ca94527baf774f15c3667c49a8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/firna/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/01e46f1daf9b04f5bdc74d71fe392cf9/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml
+		ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml
+		ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/firna/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/81c4de9e2f7b41a5ee17a3d9fd66c767/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/firna/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/81c4de9e2f7b41a5ee17a3d9fd66c767/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/firna/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/a9fe905cd2a7fff67fb33e26dcdb95f2/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/firna/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/a9fe905cd2a7fff67fb33e26dcdb95f2/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/firna/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/193d167a44323205654e554b9e2816a4/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/firna/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/193d167a44323205654e554b9e2816a4/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.firna.submission1.MainActivity
+ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.firna.submission1.DetailActivity
+ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml:19:19-49
+uses-sdk
+INJECTED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml
+INJECTED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/ebd0355b1d797a2d51eb3c304f0a5549/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/ebd0355b1d797a2d51eb3c304f0a5549/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/19333c7967fbbc2fe5a6530895e97932/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/19333c7967fbbc2fe5a6530895e97932/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/firna/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/81c4de9e2f7b41a5ee17a3d9fd66c767/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/firna/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/81c4de9e2f7b41a5ee17a3d9fd66c767/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/b67eccbde3a0dabec0582dcae4169989/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/b67eccbde3a0dabec0582dcae4169989/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/firna/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/a9fe905cd2a7fff67fb33e26dcdb95f2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/firna/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/a9fe905cd2a7fff67fb33e26dcdb95f2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/3891224cc890ed3ea08b144a46bdb59d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/3891224cc890ed3ea08b144a46bdb59d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/dc9d750110a4071d88bb754c2155b01d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/dc9d750110a4071d88bb754c2155b01d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/593ee3602f077d523e15be2ecc0b4ab9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/593ee3602f077d523e15be2ecc0b4ab9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/275ca76c4b92555f204ae70f2419368b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/275ca76c4b92555f204ae70f2419368b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a70b4d0160bbc7a65940ea95c0bc2c6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a70b4d0160bbc7a65940ea95c0bc2c6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2d190567133dcc47b16976dda06af411/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2d190567133dcc47b16976dda06af411/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b25cae059b7ce494fe7d34c0079ada96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b25cae059b7ce494fe7d34c0079ada96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c41d27b2d0fb4a03b9e6be5a19321e1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c41d27b2d0fb4a03b9e6be5a19321e1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6f7263008a06bf0bd1b5b0014d261ad6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/firna/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6f7263008a06bf0bd1b5b0014d261ad6/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/firna/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/193d167a44323205654e554b9e2816a4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/firna/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/193d167a44323205654e554b9e2816a4/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/firna/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0d631daee0d896e9c586368522b34c61/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/firna/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0d631daee0d896e9c586368522b34c61/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/firna/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8fc849c558d86b0ad93e920ad51733c1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/firna/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8fc849c558d86b0ad93e920ad51733c1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/firna/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/70cac3ca94527baf774f15c3667c49a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/firna/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/70cac3ca94527baf774f15c3667c49a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/firna/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/01e46f1daf9b04f5bdc74d71fe392cf9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/firna/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/01e46f1daf9b04f5bdc74d71fe392cf9/AndroidManifest.xml:20:5-44
+INJECTED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml
+INJECTED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml
+		ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml
+		ADDED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/firna/AndroidStudioProjects/project android studio/submission1/app/src/main/AndroidManifest.xml

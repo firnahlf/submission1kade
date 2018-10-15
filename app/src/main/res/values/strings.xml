@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Rumah Adat Indonesia</string>
+
+    <string-array name="rmhadat_name">
+        <item>ACEH</item>
+        <item>SUMATERA UTARA</item>
+        <item>SUMATERA BARAT</item>
+        <item>BANTEN</item>
+        <item>JAWA TENGAH</item>
+        <item>BALI</item>
+        <item>PAPUA</item>
+
+    </string-array>
+    <string-array name="rmhadat_description">
+        <item>Rumah Adat Krong Bade, Nanggroe Aceh Darussalam Rumah Krong Bade atau juga biasa dikenal dengan nama rumoh Aceh adalah rumah adat dari provinsi terbarat di Indonesia, Nanggroe Aceh Darussalam. Rumah Krong Bade merupakan rumah panggung dengan satu buah tangga depan yang biasa digunakan untuk berlalu lalang. Rumah adat Aceh ini keberadaannya sekarang semakin langka. Orang-orang Aceh pada umumnya saat ini lebih memilih untuk tinggal di rumah dengan gaya modern. Alasannya, selain karena biaya pembangunannya yang lebih mahal, rumah Krong Bade juga membutuhkan biaya perawatan yang tidak sedikit.</item>
+        <item>Rumah Adat Bolon, Sumatera Utara, Rumah Bolon adalah rumah adat yang menjadi identitas suku Batak yang ada di Sumatera Utara. Ada beberapa jenis rumah bolon yang dulu sempat menjadi gaya arsitektur hunian orang-orang Batak. Beberapa jenis rumah adat di Indonesia tersebut antara lain Rumah Bolon Toba, Bolon Mandailing, Bolon Simalungun, Bolon Pakpak, Bolon Karo, Bolon Angkola. Masing-masing rumah tersebut sebetulnya memiliki ciri khasnya tersendiri. Namun, saat ini mereka sudah sulit ditemukan.</item>
+        <item>Rumah Adat Gadang, Sumatera Barat Rumah Gadang (Godang) adalah rumah adat Minangkabau yang hingga kini masih banyak ditemui di provinsi Sumatera Barat. Mengingat kebudayaan melayu yang menyebar di sekitar semenanjung Malaya tempo dulu, Rumah adat ini juga hingga kini dapat kita jumpai di beberapa wilayah di Malaysia. Jadi, jika suatu saat Anda menemukan rumah gadang di negeri tetangga, jangan anggap jika mereka mencuri kebudayaan kita.</item>
+        <item>Rumah Adat Badui, Banten Rumah adat di Indonesia yang menjadi hunian orang-orang suku Banten tempo dulu diberi nama rumah badui. Rumah ini adalah rumah panggung beratapkan daun ilalang dengan lantai terbuat dari pelupuh atau bambu yang dibelah. Dinding rumah adat badui terbuat dari anyaman bambu sedangkan penyangga rumah terbuat dari batu berbentuk balok yang ujung atasnya kian mengecil. Di beberapa wilayah Ujung Kulon, rumah yang bentuknya ditampilkan pada gambar di bawah ini masih digunakan oleh sebagian besar penduduknya.</item>
+        <item>Rumah Adat Joglo, Jawa Tengah Orang Jawa pada umumnya memiliki rumah khas yang berupa hunian benama Joglo. Rumah adat di Indonesia yang satu ini memiliki beragam keunikan. Ia terbagi ke dalam beberapa ruangan yang antara lain pendapa, pringgitan, dalem, sentong, gandok tengen, dan gandok kiwo. </item>
+        <item>Rumah Adat Gampura Candi Bentar, Bali Nah, rumah khas adat bali yang satu ini yakin hingga sekarang pasti masih mudah kita jumpai. Bali memang merupakan suku di Indonesia yang sangat amanah dalam menjaga warisan leluhur, termasuk dalam hal menjaga kelestarian arsitektur rumah khasnya. Rumah adat bali sendiri di beri nama Rumah Gapura Candi Bentar. Berikut penampilan fisik dari rumah adat di Indonesia yang unik satu ini. </item>
+        <item>Rumah Honai, Irian Jaya, Meski kini Provinsi Irian Jaya terbagi menjadi 2 dan berganti nama menjadi Provinsi Papua dan Provinsi Papua Barat, namun secara umum mereka memiliki kebudayaan yang nyaris sama, termasuk dalam hal rumah adat.</item>
+
+    </string-array>
+    <array name="rmhadat_image">
+        <item>@drawable/aceh</item>
+        <item>@drawable/sumut</item>
+        <item>@drawable/sumbar</item>
+        <item>@drawable/banten</item>
+        <item>@drawable/jateng</item>
+        <item>@drawable/bali</item>
+        <item>@drawable/papua</item>
+
+    </array>
+
+</resources>
